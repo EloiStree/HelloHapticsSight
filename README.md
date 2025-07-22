@@ -42,3 +42,9 @@ Manual:
 
 Official: https://docs.bhaptics.com/start-here/getting-started
 Quick Note: https://github.com/EloiStree/HelloHapticsSight/issues/8
+
+
+## Package
+
+- https://github.com/EloiStree/2025_07_22_bHapticsIntNetwork/
+  - Required: https://assetstore.unity.com/packages/tools/integration/bhaptics-haptic-plugin-76647 
