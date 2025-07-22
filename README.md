@@ -15,3 +15,6 @@ API:
 - Unity: https://assetstore.unity.com/packages/tools/integration/bhaptics-haptic-plugin-76647
 - Python: https://github.com/bhaptics/tact-python
 - Developer Account: https://developer.bhaptics.com/applications 
+
+
+Youtube Guide, 2025  July:
