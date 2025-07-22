@@ -7,7 +7,8 @@
 
 I am a teacher in XR and I have asked the company bHaptics for a suit with the aim of experimenting with the ability to give blind people game input feedback. I am creating telemetry from *World of Warcraft* by using color and want to combine the two.
 
-They have agreed to let me experiment and sent me the product. As we have access to the Quest 3 camera since February 2025, if it works in-game, it could work in real life.
+They have agreed to let me experiment and sent me the product.  
+As we have access to the Quest 3 camera since February 2025, if it works in-game, it could work in real life.  
 
 If you know someone who is blind, around Belgium, and wants to experiment with playing *World of Warcraft* (or another game) using the bHaptics suit, contact me on Discord: [Join Discord](https://discord.gg/uKwNN2ECJH)
 
