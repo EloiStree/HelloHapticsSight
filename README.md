@@ -34,3 +34,7 @@ API:
 
 YouTube Guide, July 2025
 
+## Get Started
+
+Official: https://docs.bhaptics.com/start-here/getting-started
+
