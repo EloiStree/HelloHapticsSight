@@ -33,9 +33,12 @@ API:
 - Python: [Tact Python](https://github.com/bhaptics/tact-python)
 - Developer Account: [bHaptics Developer](https://developer.bhaptics.com/applications)
 
-YouTube Guide, July 2025
+Manual:
+- https://www.bhaptics.com/support/downloads/?type=manual
+  - TactSuit https://cdn.bhaptics.com/files/tactsuitPRO_manual.pdf
+- Official Youtube: https://www.youtube.com/@bHaptics/videos
 
 ## Get Started
 
 Official: https://docs.bhaptics.com/start-here/getting-started
-
+Quick Note: https://github.com/EloiStree/HelloHapticsSight/issues/8
